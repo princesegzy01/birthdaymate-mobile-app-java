@@ -38,6 +38,9 @@ public class LoginActivity extends AppCompatActivity {
             t.show();
             return;
         }
+
+        Intent intent = new Intent(this, ProfileActivity.class);
+        startActivity(intent);
     }
 
 
