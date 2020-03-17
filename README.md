@@ -21,5 +21,5 @@ Some of the screenshots are below
 ## Home
 ![title](screenshots/home.jpeg)
 
-##Message
+## Message
 ![title](screenshots/message.jpeg)
