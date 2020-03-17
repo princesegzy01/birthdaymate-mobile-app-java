@@ -6,5 +6,20 @@ At the completion of this app, It is should to be able to make resful request to
 
 Some of the screenshots are below
 
-<img scr="screenshots/home.jpeg">
-<img scr="screenshots/home.jpeg">
+## Splash screen
+![title](screenshots/splash.jpeg)
+
+## Login
+![title](screenshots/signin.jpeg)
+
+## Registration
+![title](screenshots/signup.jpeg)
+
+## Profile
+![title](screenshots/profile.jpeg)
+
+## Home
+![title](screenshots/home.jpeg)
+
+##Message
+![title](screenshots/message.jpeg)
