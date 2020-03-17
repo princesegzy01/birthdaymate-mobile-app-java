@@ -7,4 +7,25 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="166dp">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabIndicator="@color/design_default_color_error"
+            app:tabIndicatorColor="#B80C0C"
+            app:tabSelectedTextColor="@color/design_default_color_on_secondary"
+            app:tabTextColor="#7C7070"
+            app:tabUnboundedRipple="false" />
+
+    </androidx.viewpager.widget.ViewPager>
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
